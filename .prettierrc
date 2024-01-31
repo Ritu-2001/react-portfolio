@@ -1,0 +1,6 @@
+{
+    "traillingComa" : "es5" ,
+    "tab-width" : 2 ,
+    "semi" : false , 
+    "singleQuote": true 
+}
