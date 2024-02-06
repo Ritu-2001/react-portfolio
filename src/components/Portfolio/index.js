@@ -41,7 +41,7 @@ const Portfolio = ()=>{
 
 const data =[
  { name:`Ritu` ,
-  img:`./../issue.jpg`,
+  img:`../../assets/images/logo.png`,
   review:`Protyusha `
 },
 
