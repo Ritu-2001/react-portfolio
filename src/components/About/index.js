@@ -33,7 +33,7 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
+            I'm a very ambitious web  developer looking for a role in an
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
@@ -42,8 +42,13 @@ const About = () => {
             improving my chops one design problem at a time.
           </p>
           <p>
+<<<<<<< HEAD
             If I need to define myself in one sentence i am  foodie , goodie and moody 
             photography enthusiast, and tech-obsessed!!!
+=======
+            If I need to define myself in one sentence that would be I am foodie , moodie
+              and techie
+>>>>>>> 7a1e1b77971dabb1d35d55d5928f899d5b6653fa
           </p>
         </div>
 
