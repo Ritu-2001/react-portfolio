@@ -91,11 +91,11 @@
         }
       }
   
-      // a.portfolio-link {
-      //   &:after {
-      //     content: 'PORTFOLIO';
-      //   }
-      // }
+      a.portfolio-link {
+        &:after {
+          content: ' WORK ';
+        }
+      }
   
       a.active {
         svg {

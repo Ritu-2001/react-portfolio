@@ -77,13 +77,15 @@
     background: rgba(8, 253, 216, 0.1);
     float: right;
     width: 53%;
+    // width:50rem;
+  
     height: 115%;
     margin-top: -3%;
   }
   
   .leaflet-container {
     position: relative;
-    width: 100%;
+    width: 200%;
     height: 100%;
     opacity: 0;
     animation: backInRight 1s 1.2s;
